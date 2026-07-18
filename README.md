@@ -1,9 +1,7 @@
-![Header image](https://raw.githubusercontent.com/D-RAZ/Python-Macro-Script/blob/main/files/cover.jpg)
+![Header image](https://raw.githubusercontent.com/D-RAZ/Python-Macro-Script/main/files/cover.jpg)
 
 A simple Python script that records and mimics the user's keyboard/mouse actions
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/abhi._.i/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@abhii.pr8888@gmail.com)
-
-
