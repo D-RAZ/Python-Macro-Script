@@ -3,6 +3,7 @@
 A simple Python script that records and mimics the user's keyboard/mouse actions
 
 ##Requirements
+
 You only require: <kbd>pynput</kbd> to run this project
 
 Alternatively, you can run:
