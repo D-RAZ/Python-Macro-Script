@@ -2,15 +2,14 @@
 
 A simple Python script that records and mimics the user's keyboard/mouse actions
 
-##Requirements
-
+## Requirements
 You only require: <kbd>pynput</kbd> to run this project
 
 Alternatively, you can run:
 ```bash
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 Command|Application
 :---|:---
 <kbd>python mainRec.py</kbd>|Starts the recording(**instantaneously**)
