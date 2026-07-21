@@ -1,6 +1,6 @@
 ![Header image](https://raw.githubusercontent.com/D-RAZ/Python-Macro-Script/main/files/cover.jpg)
 
-A simple Python script that records and mimics the user's keyboard/mouse actions
+Python scripts that record and mimic the user's keyboard/mouse actions
 
 ## Requirements
 You only require: <kbd>pynput</kbd> to run this project
