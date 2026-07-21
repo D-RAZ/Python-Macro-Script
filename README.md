@@ -12,9 +12,9 @@ pip install -r requirements.txt
 ## Usage
 Command|Application
 :---|:---
-<kbd>python mainRec.py</kbd>|Starts the recording(**instantaneously**)
+<kbd>python record.py</kbd>|Starts the recording(**instantaneously**)
 <kbd>Shift+Esc</kbd>|Stop recording
-<kbd>python mainPlay.py</kbd>|Mimics the user's actions provided number of times
+<kbd>python play.py</kbd>|Mimics the user's actions for provided number of time
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/abhi._.i/)
