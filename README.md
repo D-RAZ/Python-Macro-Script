@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/D-RAZ/Python-Macro-Script/main/files/cover.jpg)
+![Header image](https://raw.githubusercontent.com/D-RAZ/Python-Macro-Script/main/cover.jpg)
 
 Python scripts that record and mimic the user's keyboard/mouse actions
 
