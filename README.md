@@ -18,6 +18,7 @@ Command|Application
 
 ## Update(2026.09.14)
 Added sound notification at the end of playback.
+
 Added a small menu interface batch file(launch.bat)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/abhi._.i/)
